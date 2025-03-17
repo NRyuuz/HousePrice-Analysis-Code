@@ -1,4 +1,5 @@
-#Document made using ChatGPT (sorry if its ass).
+#MATH CW stuff for my group
+#Documentation (README.txt) made using ChatGPT (sorry if its ass).
 
 Introduction
 This document provides a detailed explanation of the House Price Analysis code, which is designed to explore and analyze a dataset of house sales in London. The goal of this analysis is to understand how various factors (e.g., house size, number of bedrooms, lot size) influence house prices using statistical techniques, primarily linear regression.
